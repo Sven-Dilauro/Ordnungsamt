@@ -20,9 +20,10 @@ In Anbetracht der aktuellen Situation, dass auch das Fire Department Sperren erh
 Der Towtruck sollte für Abschleppvorgänge und Einsatzfahrten eine visuelle Sirene erhalten, um auf sich aufmerksam zu machen und andere Verkehrsteilnehmer zu warnen.<br>
 Die Sirene könnte wie folgt aussehen:
 <details> 
-  <summary>Implementierung einer Sirene</summary>
+  <summary>Implementierung einer Sirene:</summary>
   <img src="https://rpg-city.de/image-proxy/?key=4f7746dc3f06e52f3fa79e8c0bf13e7111b31ad79114a696db953ea9ea122173-aHR0cDovL2kuaW1ndXIuY29tL01TRXJSR0suanBn"/>
 </details>
+
 Ordnungsbeamten wird immer wieder unterstellt, dass wir die Straßenverkehrsordnung missachten.<br>
 Das Problem dabei ist, dass Ordnungsbeamte nicht kenntlich machen können, wenn man in einer Einsatzfahrt ist.
 Widerrum können Spieler oftmals auch nicht eindeutig erkennen, ob ein Beamter seine Rechte ausnutzt oder wirklich im Einsatz ist.
@@ -30,7 +31,10 @@ Widerrum können Spieler oftmals auch nicht eindeutig erkennen, ob ein Beamter s
 
 ### Wiedereinführung eines ehemaligen Skins (ID 61)
 
-<img src="https://cp.rpg-city.de/images/skins/61.png"/>
+<details> 
+  <summary>Screenshot:</summary>
+  <img src="https://cp.rpg-city.de/images/skins/61.png"/>
+</details>
 
 Das Ordnungsamt war bis zum letzten Update die einzige Fraktion mit nur vier Skins, wovon auch noch einer weiblich ist.<br>
 Nun haben wir zwar einen weiteren Skin erhalten, der allerdings fast gleich wie der bereits vorhandene Skin aussieht.<br>
