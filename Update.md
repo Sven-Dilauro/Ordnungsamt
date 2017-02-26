@@ -23,7 +23,7 @@ Die Sirene könnte wie folgt aussehen:
 </details>
 
 Ordnungsbeamten wird immer wieder unterstellt, dass wir die Straßenverkehrsordnung missachten.<br>
-Das Problem dabei ist, dass Ordnungsbeamte nicht kenntlich machen können, wenn man in einer Einsatzfahrt ist.
+Das Problem dabei ist, dass Ordnungsbeamte nicht kenntlich machen können, wenn man in einer Einsatzfahrt ist.<br>
 Widerrum können Spieler oftmals auch nicht eindeutig erkennen, ob ein Beamter seine Rechte ausnutzt oder wirklich im Einsatz ist.
 
 
@@ -50,7 +50,7 @@ Andernfalls wäre es sinnlos, dass wir illegale Gegenstände & Waffen konfiszier
 
 Im Falle eines fälschlichen Entzugs einer Lizenz sollten hochrangige Beamte (Rang 9+) die Möglichkeit haben, dem Spieler die entzogene Lizenz ohne zusätzliche Kosten wieder auszuhändigen.<br>
 Es kann oftmals schon eine fehlerhafte Punktevergaben ausreichen, dass eine Lizenz ungewollt entzogen wird.<br>
-Hierbei macht es keinen Sinn, dass man dann die Kosten für eine Neuanschaffung tragen muss und beim Führerschein sogar noch eine Prüfung erfolgreich bestehen muss.
+Hierbei macht es keinen Sinn, dass man dann die Kosten für eine Neuanschaffung tragen muss und beim Führerschein sogar noch eine Prüfung erfolgreich bestehen muss.<br>
 Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide Parteien den Geldbeutel schonen könnten.
 
 
@@ -82,14 +82,14 @@ Aus diesem Grund sollte der Checkpoint immer an der Position zum Absenden eines 
 
 ### Überarbeitung des Ticket-Systems
 
-Damals wurde das Ticket-System dahingehend verändert, dass Tickets nur noch mit einem maximalen Betrag 10.000$ anstatt 30.000$ ausgestellt werden können.
-Ich habe dieses Thema schon damals angesprochen, allerdings ist das Vergeben von Tickets mit den neuen Preisen noch viel umständlicher geworden.
+Damals wurde das Ticket-System dahingehend verändert, dass Tickets nur noch mit einem maximalen Betrag 10.000$ anstatt 30.000$ ausgestellt werden können.<br>
+Ich habe dieses Thema schon damals angesprochen, allerdings ist das Vergeben von Tickets mit den neuen Preisen noch viel umständlicher geworden.<br>
 Ein Betrag könnte zwar auf acht Tickets aufgeteilt werden, aber inwiefern erfüllt die Drosselung überhaupt ihren Zweck?
 
-Nach meinen Erkenntnissen hat sich damals ein Beamter selbst Tickets ausgestellt und durch ein Payday-Event, bei dem man mehr Gehalt eingenommen hat, mehrere Millionen eingenommen.
+Nach meinen Erkenntnissen hat sich damals ein Beamter selbst Tickets ausgestellt und durch ein Payday-Event, bei dem man mehr Gehalt eingenommen hat, mehrere Millionen eingenommen.<br>
 Mittlerweile können an sich selbst keine Tickets mehr ausgestellt werden und würde diese Drosselung überhaupt verhindern, dass Geldwäsche betrieben werden könnte?
 
-Meiner Meinung nach erfüllt diese Drosselung keinen Zweck, da immer noch unbegrenzt Tickets hintereinander ausgestellt werden können.
+Meiner Meinung nach erfüllt diese Drosselung keinen Zweck, da immer noch unbegrenzt Tickets hintereinander ausgestellt werden können.<br>
 Dahingehend würde höchstens eine Begrenzung für das Ausstellen von Tickets an den selben Spieler Sinn machen, anstatt den Betrag zu verringern und es den Spieler unnötig umständlich zu machen.
 
 
