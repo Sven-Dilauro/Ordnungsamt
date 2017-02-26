@@ -25,7 +25,7 @@ Die Sirene könnte wie folgt aussehen:
 
 Ordnungsbeamten wird immer wieder unterstellt, dass wir die Straßenverkehrsordnung missachten.<br>
 Das Problem dabei ist, dass Ordnungsbeamte nicht kenntlich machen können, wenn man in einer Einsatzfahrt ist.<br>
-Widerrum können Spieler oftmals auch nicht eindeutig erkennen, ob ein Beamter seine Rechte ausnutzt oder wirklich im Einsatz ist.
+Widerrum können Spieler oftmals auch nicht eindeutig erkennen, ob ein Beamter seine Rechte ausnutzt oder wirklich im Einsatz ist.<br>
 
 
 ### Wiedereinführung des ehemaligen Skins - ID 61
@@ -38,13 +38,13 @@ Widerrum können Spieler oftmals auch nicht eindeutig erkennen, ob ein Beamter s
 Das Ordnungsamt war bis zum letzten Update die einzige Fraktion mit nur vier Skins, wovon auch noch einer weiblich ist.<br>
 Nun haben wir zwar einen weiteren Skin erhalten, der allerdings fast gleich wie der bereits vorhandene Skin aussieht.<br>
 Der Skin ist für uns nur bedingt brauchbar, da dieser wegen seines Aussehens auch nur für einen niedrigen Rang in Frage kommt.<br>
-Wir könnten mit dem ehemaligen Skin deutlich mehr anfangen, da sich dieser immens von den anderen unterscheidet und sich für höhere Ränge, bei denen eher die Auswahl an Skins fehlt, eignet.
+Wir könnten mit dem ehemaligen Skin deutlich mehr anfangen, da sich dieser immens von den anderen unterscheidet und sich für höhere Ränge, bei denen eher die Auswahl an Skins fehlt, eignet.<br>
 
 
 ### Zerstören von Drogenpflanzen (Marihuana)
 
 Auch das Ordnungsamt sollte die Möglichkeit haben, Drogenpflanzen (Marihuana) zu zerstören.<br>
-Andernfalls wäre es sinnlos, dass wir illegale Gegenstände & Waffen konfiszieren können.
+Andernfalls wäre es sinnlos, dass wir illegale Gegenstände & Waffen konfiszieren können.<br>
 
 
 ### Erstattung von Lizenz-Kosten
@@ -52,7 +52,7 @@ Andernfalls wäre es sinnlos, dass wir illegale Gegenstände & Waffen konfiszier
 Im Falle eines fälschlichen Entzugs einer Lizenz sollten hochrangige Beamte (Rang 9+) die Möglichkeit haben, dem Spieler die entzogene Lizenz ohne zusätzliche Kosten wieder auszuhändigen.<br>
 Es kann oftmals schon eine fehlerhafte Punktevergaben ausreichen, dass eine Lizenz ungewollt entzogen wird.<br>
 Hierbei macht es keinen Sinn, dass man dann die Kosten für eine Neuanschaffung tragen muss und beim Führerschein sogar noch eine Prüfung erfolgreich bestehen muss.<br>
-Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide Parteien den Geldbeutel schonen könnten.
+Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide Parteien den Geldbeutel schonen könnten.<br>
 
 
 ### Repairkits für alle Spieler
@@ -68,17 +68,16 @@ Damit diese Funktion nicht ausgenutzt werden kann, sollte die Nutzung einigen Ei
 <ul>
 				<li>Das Kit kann nur vom Fahrer verwendet werden.</li>
 				<li>Das Kit sollte nur außerhalb des Fahrzeugs mit einer Animation am Fahrzeug verwendet werden können.</li><li>Ein Kit kann nur alle 15 Minuten verwendet werden.</li>
-				</ul>
+				</ul><br>
 				
-				
-        
+				        
 ### Überarbeitung der Service-Funktion (Standort)
 
 Bei einem Notruf wird immer der aktuelle Standort des Anrufers zum Zeitpunkt der Annahme angezeigt.<br>
 Dies ist vor allem dann ungünstig, wenn sich der Spieler von der Position entfernt oder man den Notruf nur zu einem späteren Zeutpunkt annehmen kann.<br>
 Da der Checkpoint nicht mehr an der gewünschten Position, bspw. der eines falschparkenden Fahrzeugs, ist, ist der Notruf für uns unbrauchbar.
 
-Aus diesem Grund sollte der Checkpoint immer an der Position zum Absenden eines Notrufes gespeichert werden.
+Aus diesem Grund sollte der Checkpoint immer an der Position zum Absenden eines Notrufes gespeichert werden.<br>
 
 
 ### Überarbeitung des Ticket-Systems
@@ -91,7 +90,7 @@ Nach meinen Erkenntnissen hat sich damals ein Beamter selbst Tickets ausgestellt
 Mittlerweile können an sich selbst keine Tickets mehr ausgestellt werden und würde diese Drosselung überhaupt verhindern, dass Geldwäsche betrieben werden könnte?
 
 Meiner Meinung nach erfüllt diese Drosselung keinen Zweck, da immer noch unbegrenzt Tickets hintereinander ausgestellt werden können.<br>
-Dahingehend würde höchstens eine Begrenzung für das Ausstellen von Tickets an den selben Spieler Sinn machen, anstatt den Betrag zu verringern und es den Spieler unnötig umständlich zu machen.
+Dahingehend würde höchstens eine Begrenzung für das Ausstellen von Tickets an den selben Spieler Sinn machen, anstatt den Betrag zu verringern und es den Spieler unnötig umständlich zu machen.<br>
 
 
 ### Überarbeitung des Zollcontrol-Systems
