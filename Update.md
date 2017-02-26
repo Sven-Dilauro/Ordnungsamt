@@ -4,8 +4,6 @@
 
 ## Verbesserungsvorschläge - Ordnungsamt & Co.
 
-In diesem Thema werden einige Verbesserungsvorschläge für das Ordnungsamt und andere Fraktionen vorgestellt.
-
 
 ### Sperren für das Ordnungsamt
 
@@ -48,13 +46,28 @@ Auch das Ordnungsamt sollte die Möglichkeit haben, Drogenpflanzen (Marihuana) z
 Andernfalls wäre es sinnlos, dass wir illegale Gegenstände & Waffen konfiszieren können.
 
 
-### Überarbeitung des Zollcontrol-Systems
+### Erstattung von Lizenz-Kosten
 
-Das Zollcontrol-System sollte dringend überarbeitet werden, da es einige Fehler aufweist:
-			<ul>
-				<li>Die Zollstationen öffnen sich automatisch, auch wenn diese gerade erst wieder geschlossen wurden.<br>=&gt; Der Timer sollte bei jedem Schließen resettet werden.</li>
-				<li>Die Zollstationen öffnen sich automatisch, auch wenn diese schon geöffnet sind.</li>
-				<li>Unter /zollcontrol wird angezeigt, dass die Zollstationen 1-10 geschlossen sind.<br>Die Zollstation 10 existiert allerdings nicht, sondern beinhaltet die Zollstationen um Los Santos (1, 2, 3, 6, 7, 8, 9).<br>=&gt; Demnach sollte die Zollstation 10 nicht in der Liste der geschlossenen Zollstationen angezeigt werden.</li></ul>
+Im Falle eines fälschlichen Entzugs einer Lizenz sollten hochrangige Beamte (Rang 9+) die Möglichkeit haben, dem Spieler die entzogene Lizenz ohne zusätzliche Kosten wieder auszuhändigen.<br>
+Es kann oftmals schon eine fehlerhafte Punktevergaben ausreichen, dass eine Lizenz ungewollt entzogen wird.<br>
+Hierbei macht es keinen Sinn, dass man dann die Kosten für eine Neuanschaffung tragen muss und beim Führerschein sogar noch eine Prüfung erfolgreich bestehen muss.
+Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide Parteien den Geldbeutel schonen könnten.
+
+
+### Repairkits für alle Spieler
+
+Das Ordnungsamt hat die Tätigkeit des KFZ-Mechatroniker übernommen, die von der Community selten in Anspruch genommen wird.<br>
+Daher sollte nicht nur die Wheelman Agency sondern jeder Spieler die Möglichkeit haben, ein Reparaturset für sein Fahrzeug zu erwerben.<br>
+Wir sollten diese Repairkits, ähnlich wie bei den Sanitätern mit den Erste-Hilfe-Paketen, aus einem Fraktionsfahrzeug zum Verkauf anbieten können.<br>
+Mit dem Kit ist es möglich, ein Fahrzeug auf 1000 DL zu reparieren und alle Schäden zu beseitigen.<br>
+
+Damit diese Funktion nicht ausgenutzt werden kann, sollte die Nutzung einigen Einschränkungen unterliegen:
+<ul>
+				<li>Das Kit kann nur vom Fahrer verwendet werden.</li>
+				<li>Das Kit sollte nur außerhalb des Fahrzeugs mit einer Animation am Fahrzeug verwendet werden können.</li><li>Ein Kit kann nur alle 15 Minuten verwendet werden.</li>
+				</ul>
+				
+				
         
  
 ### Überarbeitung der Service-Funktion (Standort)
@@ -79,24 +92,10 @@ Meiner Meinung nach erfüllt diese Drosselung keinen Zweck, da immer noch unbegr
 Dahingehend würde höchstens eine Begrenzung für das Ausstellen von Tickets an den selben Spieler Sinn machen, anstatt den Betrag zu verringern und es den Spieler unnötig umständlich zu machen.
 
 
-### Erstattung von Lizenz-Kosten
+### Überarbeitung des Zollcontrol-Systems
 
-Im Falle eines fälschlichen Entzugs einer Lizenz sollten hochrangige Beamte (Rang 9+) die Möglichkeit haben, dem Spieler die entzogene Lizenz ohne zusätzliche Kosten wieder auszuhändigen.<br>
-Es kann oftmals schon eine fehlerhafte Punktevergaben ausreichen, dass eine Lizenz ungewollt entzogen wird.<br>
-Hierbei macht es keinen Sinn, dass man dann die Kosten für eine Neuanschaffung tragen muss und beim Führerschein sogar noch eine Prüfung erfolgreich bestehen muss.
-Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide Parteien den Geldbeutel schonen könnten.
-
-
-### Repairkits für alle Spieler
-
-Das Ordnungsamt hat die Tätigkeit des KFZ-Mechatroniker übernommen, die von der Community selten in Anspruch genommen wird.<br>
-Daher sollte nicht nur die Wheelman Agency sondern jeder Spieler die Möglichkeit haben, ein Reparaturset für sein Fahrzeug zu erwerben.<br>
-Wir sollten diese Repairkits, ähnlich wie bei den Sanitätern mit den Erste-Hilfe-Paketen, aus einem Fraktionsfahrzeug zum Verkauf anbieten können.<br>
-Mit dem Kit ist es möglich, ein Fahrzeug auf 1000 DL zu reparieren und alle Schäden zu beseitigen.<br>
-
-Damit diese Funktion nicht leicht ausgenutzt werden kann, sollte die Nutzung einigen Einschränkungen unterliegen:
-<ul>
-				<li>Das Kit kann nur vom Fahrer verwendet werden.</li>
-				<li>Das Kit sollte nur außerhalb des Fahrzeugs mit einer Animation am Fahrzeug verwendet werden können.</li><li>Ein Kit kann nur alle 15 Minuten verwendet werden.</li>
-				</ul>
-				
+Das Zollcontrol-System sollte dringend überarbeitet werden, da es einige Fehler aufweist:
+			<ul>
+				<li>Die Zollstationen öffnen sich automatisch, auch wenn diese gerade erst wieder geschlossen wurden.<br>=&gt; Der Timer sollte bei jedem Schließen resettet werden.</li>
+				<li>Die Zollstationen öffnen sich automatisch, auch wenn diese schon geöffnet sind.</li>
+				<li>Unter /zollcontrol wird angezeigt, dass die Zollstationen 1-10 geschlossen sind.<br>Die Zollstation 10 existiert allerdings nicht, sondern beinhaltet die Zollstationen um Los Santos (1, 2, 3, 6, 7, 8, 9).<br>=&gt; Demnach sollte die Zollstation 10 nicht in der Liste der geschlossenen Zollstationen angezeigt werden.</li></ul>
