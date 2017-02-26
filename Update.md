@@ -5,12 +5,13 @@
 ## Verbesserungsvorschläge - Ordnungsamt & Co.
 
 
+
 ### Sperren für das Ordnungsamt
 
 Die Sperren werden schon seit Jahren vorgeschlagen und würden sich für Verkehrs- und Zollkontrollen als äußerst nützlich erweisen.<br>
 Durch das neue Kofferraumsystem ergeben sich deutlich mehr Möglichkeiten für mobile und v.a. stationäre Kontrollen, weshalb solche Sperren für uns unverzichtbar sind.<br>
 Ein großer Vorteil des Ordnungsamts ist, dass wir deutlich mehr Zeit in Verkehrs- & Zollkontrollen investieren können.<br>
-In Anbetracht der aktuellen Situation, dass auch das Fire Department Sperren erhalten hat, wäre es durchaus fair, wenn auch das Ordnungsamt Sperren erhält, da wir diese für sinnvollere Zwecke nutzen können.
+In Anbetracht der aktuellen Situation, dass auch das Fire Department Sperren erhalten hat, wäre es durchaus fair, wenn auch das Ordnungsamt Sperren erhält, da wir diese für sinnvollere Zwecke nutzen können.<br>
 
 
 ### Warnblinkanlage für den Towtruck
