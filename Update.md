@@ -52,4 +52,37 @@ Da der Checkpoint nicht mehr an der gewünschten Position, bspw. der eines falsc
 Aus diesem Grund sollte der Checkpoint immer an der Position zum Absenden eines Notrufes gespeichert werden.
 
 
-###
+### Überarbeitung des Ticket-Systems
+
+Damals wurde das Ticket-System dahingehend verändert, dass Tickets nur noch mit einem maximalen Betrag 10.000$ anstatt 30.000$ ausgestellt werden können.
+Ich habe dieses Thema schon damals angesprochen, allerdings ist das Vergeben von Tickets mit den neuen Preisen noch viel umständlicher geworden.
+Ein Betrag könnte zwar auf acht Tickets aufgeteilt werden, aber inwiefern erfüllt die Drosselung überhaupt ihren Zweck?
+
+Nach meinen Erkenntnissen hat sich damals ein Beamter selbst Tickets ausgestellt und durch ein Payday-Event, bei dem man mehr Gehalt eingenommen hat, mehrere Millionen eingenommen.
+Mittlerweile können an sich selbst keine Tickets mehr ausgestellt werden und würde diese Drosselung überhaupt verhindern, dass Geldwäsche betrieben werden könnte?
+
+Meiner Meinung nach erfüllt diese Drosselung keinen Zweck, da immer noch unbegrenzt Tickets hintereinander ausgestellt werden können.
+Dahingehend würde höchstens eine Begrenzung für das Ausstellen von Tickets an den selben Spieler Sinn machen, anstatt den Betrag zu verringern und es den Spieler unnötig umständlich zu machen.
+
+
+### Erstattung von Lizenz-Kosten
+
+Im Falle eines fälschlichen Entzugs einer Lizenz sollten hochrangige Beamte (Rang 9+) die Möglichkeit haben, dem Spieler die entzogene Lizenz ohne zusätzliche Kosten wieder auszuhändigen.<br>
+Es kann oftmals schon eine fehlerhafte Punktevergaben ausreichen, dass eine Lizenz ungewollt entzogen wird.<br>
+Hierbei macht es keinen Sinn, dass man dann die Kosten für eine Neuanschaffung tragen muss und beim Führerschein sogar noch eine Prüfung erfolgreich bestehen muss.
+Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide Parteien den Geldbeutel schonen könnten.
+
+
+### Repairkits für alle Spieler
+
+Das Ordnungsamt hat die Tätigkeit des KFZ-Mechatroniker übernommen, die von der Community selten in Anspruch genommen wird.<br>
+Daher sollte nicht nur die Wheelman Agency sondern jeder Spieler die Möglichkeit haben, ein Reparaturset für sein Fahrzeug zu erwerben.<br>
+Wir sollten diese Repairkits, ähnlich wie bei den Sanitätern mit den Erste-Hilfe-Paketen, aus einem Fraktionsfahrzeug zum Verkauf anbieten können.<br>
+Mit dem Kit ist es möglich, ein Fahrzeug auf 1000 DL zu reparieren und alle Schäden zu beseitigen.<br>
+
+Damit diese Funktion nicht leicht ausgenutzt werden kann, sollte die Nutzung einigen Einschränkungen unterliegen:
+<ul>
+				<li>Das Kit kann nur vom Fahrer verwendet werden.</li>
+				<li>Das Kit sollte nur außerhalb des Fahrzeugs mit einer Animation am Fahrzeug verwendet werden können.</li><li>Ein Kit kann nur alle 15 Minuten verwendet werden.</li>
+				</ul>
+				
