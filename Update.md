@@ -15,10 +15,12 @@ Das Ordnungsamt ist hinsichtlich Verkehrs- & Zollkontrollen sicherlich viel akti
 In Anbetracht der aktuellen Situation, dass auch das Fire Department Sperren erhalten hat, wäre es durchaus fair, wenn auch das Ordnungsamt Sperren erhält, da wir diese für sinnvollere Zwecke nutzen können.
 
 
-### Warnlichter für den Towtruck
+### Warnblinklicht für den Towtruck
+
+Der Towtruck sollte für Abschleppvorgänge und Einsatzfahrten eine visuelle Sirene erhalten, Diese könnte wie folgt aussehen oder bei Intresse von der Projektleitung @Siedler auch anders gestaltet werden. Mir und anderen Personen aus meiner Fraktion ist es bestimmt schon oft unterstellt wurden das wir die STVO missachten, hierbei spielen z.B. Falschparker und auch Einsätze eine Große Rolle, ich wurde bereits schon von mehreren Personen wegen der Geschw. Überschreitung bei einem Einsatz welche vom Regelwerk her erlaubt ist ausgebremst weil einige Spieler sich dachten das wir mit einem Provokations hintergrund zuschnell fahren dabei waren aber z.B. Einsätze grade vorhanden daher wäre ich dafür eine Tow Sirene zu implementieren. Alternativ könnte man für die Allg. Staatsfraktionen den EML (Emergency Light Mod) erlauben, dies liegt aber in der Hand der Projektleitung.
 
 
-### ehemaligen Skin (ID 61) wieder einfügen
+### Wiedereinführung eines ehemaligen Skins (ID 61)
 
 <img src="https://cp.rpg-city.de/images/skins/61.png"/>
 
