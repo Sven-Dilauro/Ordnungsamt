@@ -27,7 +27,7 @@ Das Problem dabei ist, dass Ordnungsbeamte nicht kenntlich machen können, wenn 
 Widerrum können Spieler oftmals auch nicht eindeutig erkennen, ob ein Beamter seine Rechte ausnutzt oder wirklich im Einsatz ist.
 
 
-### Wiedereinführung eines ehemaligen Skins (ID 61)
+### Wiedereinführung des ehemaligen Skins - ID 61
 
 <details> 
   <summary>Screenshot:</summary>
@@ -69,7 +69,6 @@ Damit diese Funktion nicht ausgenutzt werden kann, sollte die Nutzung einigen Ei
 				
 				
         
- 
 ### Überarbeitung der Service-Funktion (Standort)
 
 Bei einem Notruf wird immer der aktuelle Standort des Anrufers zum Zeitpunkt der Annahme angezeigt.<br>
