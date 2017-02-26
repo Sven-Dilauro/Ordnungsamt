@@ -15,9 +15,17 @@ Das Ordnungsamt ist hinsichtlich Verkehrs- & Zollkontrollen sicherlich viel akti
 In Anbetracht der aktuellen Situation, dass auch das Fire Department Sperren erhalten hat, wäre es durchaus fair, wenn auch das Ordnungsamt Sperren erhält, da wir diese für sinnvollere Zwecke nutzen können.
 
 
-### Warnblinklicht für den Towtruck
+### Warnblinkanlage für den Towtruck
 
-Der Towtruck sollte für Abschleppvorgänge und Einsatzfahrten eine visuelle Sirene erhalten, Diese könnte wie folgt aussehen oder bei Intresse von der Projektleitung @Siedler auch anders gestaltet werden. Mir und anderen Personen aus meiner Fraktion ist es bestimmt schon oft unterstellt wurden das wir die STVO missachten, hierbei spielen z.B. Falschparker und auch Einsätze eine Große Rolle, ich wurde bereits schon von mehreren Personen wegen der Geschw. Überschreitung bei einem Einsatz welche vom Regelwerk her erlaubt ist ausgebremst weil einige Spieler sich dachten das wir mit einem Provokations hintergrund zuschnell fahren dabei waren aber z.B. Einsätze grade vorhanden daher wäre ich dafür eine Tow Sirene zu implementieren. Alternativ könnte man für die Allg. Staatsfraktionen den EML (Emergency Light Mod) erlauben, dies liegt aber in der Hand der Projektleitung.
+Der Towtruck sollte für Abschleppvorgänge und Einsatzfahrten eine visuelle Sirene erhalten, um auf sich aufmerksam zu machen und andere Verkehrsteilnehmer zu warnen.<br>
+Die Sirene könnte wie folgt aussehen:
+<details> 
+  <summary>Implementierung einer Sirene</summary>
+  <img src="https://rpg-city.de/image-proxy/?key=4f7746dc3f06e52f3fa79e8c0bf13e7111b31ad79114a696db953ea9ea122173-aHR0cDovL2kuaW1ndXIuY29tL01TRXJSR0suanBn"/>
+</details>
+Ordnungsbeamten wird immer wieder unterstellt, dass wir die Straßenverkehrsordnung missachten.<br>
+Das Problem dabei ist, dass Ordnungsbeamte nicht kenntlich machen können, wenn man in einer Einsatzfahrt ist.
+Widerrum können Spieler oftmals auch nicht eindeutig erkennen, ob ein Beamter seine Rechte ausnutzt oder wirklich im Einsatz ist.
 
 
 ### Wiedereinführung eines ehemaligen Skins (ID 61)
