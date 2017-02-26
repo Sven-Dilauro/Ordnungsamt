@@ -57,7 +57,9 @@ Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide 
 ### Repairkits für alle Spieler
 
 Das Ordnungsamt hat die Tätigkeit des KFZ-Mechatroniker übernommen, die von der Community selten in Anspruch genommen wird.<br>
-Daher sollte nicht nur die Wheelman Agency sondern jeder Spieler die Möglichkeit haben, ein Reparaturset für sein Fahrzeug zu erwerben.<br>
+Unter den aktuellen Umständen halte ich es für angebracht, diese Tätigkeit durch die Erweiterung des Aufgabenbereich ansprechender zu gestalten.
+
+Nicht nur die Wheelman Agency sondern jeder Spieler sollte die Möglichkeit haben, ein Reparaturset für sein Fahrzeug zu erwerben.<br>
 Wir sollten diese Repairkits, ähnlich wie bei den Sanitätern mit den Erste-Hilfe-Paketen, aus einem Fraktionsfahrzeug zum Verkauf anbieten können.<br>
 Mit dem Kit ist es möglich, ein Fahrzeug auf 1000 DL zu reparieren und alle Schäden zu beseitigen.<br>
 
