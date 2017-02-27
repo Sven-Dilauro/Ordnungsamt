@@ -55,6 +55,24 @@ Hierbei macht es keinen Sinn, dass man dann die Kosten für eine Neuanschaffung 
 Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide Parteien den Geldbeutel schonen könnten.<br>
 
 
+### Offline - Abschleppen (/opark)
+
+Cops können Spieler bei offline einsperren und Sanitäter können offline wiederbeleben,<br>
+nur das Ordnungsamt muss sich das tägliche Spiel der Offlineflucht während des Abschleppvorgangs antun.<br>
+Jeder Spieler, er schon mal im Ordnungsamt war, kennt dieses Problem und weiß wovon ich rede.
+
+Unabhängig von der Art, wie es letztendlich realisiert wird, sollte Offlineflucht während des Abschleppvorgangs in jedem Fall verhindert werden können.<br>
+Hier sind einige Ansätze, wie ich als Laie dieses System verwirklichen würde:
+<ol>
+				<li>Das Fahrzeug verschwindet nicht direkt beim Ausloggen, wenn es an einem Towtruck hängt.<br>
+Dadurch würde gewährleistet werden, dass man als Ordnungsbeamter ausreichend Zeit hat, das Fahrzeug zur Verwahrstelle zu bringen.</li>
+				<li>Ein abzuschleppendes Fahrzeug kann schon mit einer Kaution versehen werden, sobald es am Haken eins Towtrucks hängt.<br>
+In der Regel wird es dann natürlich zur Verwahrstelle abgeschleppt. Sollte allerdings ein Spieler Offlineflucht begehen, landet das Fahrzeug direkt in der Verwahrstelle.</li>
+				<li>Als Ordnungsbeamter kann man ein Fahrzeug, unabhängig vom Standort, in die Verwahrstelle abschleppen, wenn sich ein Spieler ausloggen möchte.<br>
+				Hierbei erhält der Spieler eine Meldung, dass sein Fahrzeug abgeschleppt wird, und der Beamte kann eine Kaution festlegen.
+				</li></ol>
+
+
 ### Repairkits für alle Spieler
 
 Das Ordnungsamt hat die Tätigkeit des KFZ-Mechatroniker übernommen, die von der Community selten in Anspruch genommen wird.<br>
