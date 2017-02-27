@@ -68,7 +68,7 @@ Damit diese Funktion nicht ausgenutzt werden kann, sollte die Nutzung einigen Ei
 <ul>
 				<li>Das Kit kann nur vom Fahrer verwendet werden.</li>
 				<li>Das Kit sollte nur außerhalb des Fahrzeugs mit einer Animation am Fahrzeug verwendet werden können.</li><li>Ein Kit kann nur alle 15 Minuten verwendet werden.</li>
-				</ul><br>
+				</ul>
 				
 				        
 ### Überarbeitung der Service-Funktion (Standort)
