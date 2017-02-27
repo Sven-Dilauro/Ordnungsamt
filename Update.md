@@ -55,6 +55,22 @@ Hierbei macht es keinen Sinn, dass man dann die Kosten für eine Neuanschaffung 
 Entweder der Spieler oder der Beamte bleibt auf den Kosten sitzen, sodass beide Parteien den Geldbeutel schonen könnten.<br>
 
 
+### Repairkits für alle Spieler
+
+Das Ordnungsamt hat die Tätigkeit des KFZ-Mechatroniker übernommen, die von der Community selten in Anspruch genommen wird.<br>
+Unter den aktuellen Umständen halte ich es für angebracht, diese Tätigkeit durch die Erweiterung des Aufgabenbereich ansprechender zu gestalten.
+
+Nicht nur die Wheelman Agency sondern jeder Spieler sollte die Möglichkeit haben, ein Reparaturset für sein Fahrzeug zu erwerben.<br>
+Wir sollten diese Repairkits, ähnlich wie bei den Sanitätern mit den Erste-Hilfe-Paketen, aus einem Fraktionsfahrzeug zum Verkauf anbieten können.<br>
+Mit dem Kit ist es möglich, ein Fahrzeug auf 1000 DL zu reparieren und alle Schäden zu beseitigen.<br>
+
+Damit diese Funktion nicht ausgenutzt werden kann, sollte die Nutzung einigen Einschränkungen unterliegen:
+<ul>
+				<li>Das Kit kann nur vom Fahrer verwendet werden.</li>
+				<li>Das Kit sollte nur außerhalb des Fahrzeugs mit einer Animation am Fahrzeug verwendet werden können.</li><li>Ein Kit kann nur alle 15 Minuten verwendet werden.</li>
+				</ul>
+				
+				
 ### Offline - Abschleppen (/opark)
 
 Cops können Spieler bei offline einsperren und Sanitäter können offline wiederbeleben,<br>
@@ -71,22 +87,6 @@ In der Regel wird es dann natürlich zur Verwahrstelle abgeschleppt. Sollte alle
 				<li>Als Ordnungsbeamter kann man ein Fahrzeug, unabhängig vom Standort, in die Verwahrstelle abschleppen, wenn sich ein Spieler ausloggen möchte.<br>
 				Hierbei erhält der Spieler eine Meldung, dass sein Fahrzeug abgeschleppt wird, und der Beamte kann eine Kaution festlegen.
 				</li></ol>
-
-
-### Repairkits für alle Spieler
-
-Das Ordnungsamt hat die Tätigkeit des KFZ-Mechatroniker übernommen, die von der Community selten in Anspruch genommen wird.<br>
-Unter den aktuellen Umständen halte ich es für angebracht, diese Tätigkeit durch die Erweiterung des Aufgabenbereich ansprechender zu gestalten.
-
-Nicht nur die Wheelman Agency sondern jeder Spieler sollte die Möglichkeit haben, ein Reparaturset für sein Fahrzeug zu erwerben.<br>
-Wir sollten diese Repairkits, ähnlich wie bei den Sanitätern mit den Erste-Hilfe-Paketen, aus einem Fraktionsfahrzeug zum Verkauf anbieten können.<br>
-Mit dem Kit ist es möglich, ein Fahrzeug auf 1000 DL zu reparieren und alle Schäden zu beseitigen.<br>
-
-Damit diese Funktion nicht ausgenutzt werden kann, sollte die Nutzung einigen Einschränkungen unterliegen:
-<ul>
-				<li>Das Kit kann nur vom Fahrer verwendet werden.</li>
-				<li>Das Kit sollte nur außerhalb des Fahrzeugs mit einer Animation am Fahrzeug verwendet werden können.</li><li>Ein Kit kann nur alle 15 Minuten verwendet werden.</li>
-				</ul>
 				
 				        
 ### Überarbeitung der Service-Funktion (Standort)
